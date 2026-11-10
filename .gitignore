@@ -1,0 +1,7 @@
+.env
+.venv/
+data/figures/*
+!data/figures/.gitkeep
+data/*.pkl
+__pycache__/
+.ipynb_checkpoints/
